@@ -1,0 +1,11 @@
+.site-name {
+    text-align: center;
+    background-color: green;
+    color: yellow;
+    font-size: 5rem;
+    font-weight: bold;
+}
+
+.recipe-link {
+    font-size: 2rem;
+}
